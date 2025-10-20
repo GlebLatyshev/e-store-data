@@ -61,7 +61,7 @@
     "shortDescription": "Беспроводные наушники с шумоподавлением и чистым звуком.",
     "description": "Активное шумоподавление (ANC), Bluetooth 5.3, до 30 часов работы, сенсорное управление, чехол-зарядка USB-C.",
     "images": [
-      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/headphones.png""
+      "https://raw.githubusercontent.com/GlebLatyshev/e-store-data/main/headphones.png"
     ],
     "categories": ["Аудио"],
     "tags": ["bluetooth", "anc", "wireless"],
@@ -237,4 +237,5 @@
     }
   }
 ]
+
 
