@@ -36,7 +36,7 @@
     "shortDescription": "Флагманский смартфон с OLED-дисплеем и высокой скоростью.",
     "description": "6.5\" OLED 120 Гц, 256 ГБ, 8 ГБ RAM, 4800 мА·ч, камеры 50+12+10 Мп, 5G, NFC, защита IP68.",
     "images": [
-      "https://raw.githubusercontent.com/GlebLatyshev/estore-data/main/smartphone-x.png"
+      "https://raw.githubusercontent.com/GlebLatyshev/estore-data/main/smartphone.png"
     ],
     "categories": ["Смартфоны"],
     "tags": ["oled", "120hz", "camera", "5g"],
@@ -131,7 +131,7 @@
     "shortDescription": "Телевизор 4K Ultra HD для полного погружения.",
     "description": "OLED 55\" 120 Гц, Google TV, HDMI 2.1 (x4), Dolby Vision, Wi-Fi 6.",
     "images": [
-      "https://raw.githubusercontent.com/GlebLatyshev/estore-data/main/4k-tv.png"
+      "https://raw.githubusercontent.com/GlebLatyshev/estore-data/main/tv.png"
     ],
     "categories": ["TV"],
     "tags": ["oled", "120hz", "google-tv"],
@@ -237,4 +237,5 @@
     }
   }
 ]
+
 
